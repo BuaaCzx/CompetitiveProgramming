@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\Cai Zhixin\\Documents\\CPP Files\\A.cpp","tests":[{"id":1705903277681,"input":"3\n10 2\n10 3\n3 4","output":"2\n7 3\n1\n10\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Cai Zhixin\\Documents\\CPP Files\\A.cpp","group":"local","local":true}
