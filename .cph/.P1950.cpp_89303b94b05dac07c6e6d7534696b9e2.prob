@@ -1,1 +1,0 @@
-{"name":"Local: P1950","url":"c:\\Users\\Cai Zhixin\\Documents\\CPP Files\\P1950.cpp","tests":[{"id":1705982661180,"input":"6 4\n....\n.***\n.*..\n.***\n...*\n.***","output":"38"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Cai Zhixin\\Documents\\CPP Files\\P1950.cpp","group":"local","local":true}

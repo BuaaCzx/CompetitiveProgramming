@@ -1,1 +1,0 @@
-{"name":"Local: C","url":"c:\\Users\\Cai Zhixin\\Documents\\CPP Files\\C.cpp","tests":[{"id":1705904283553,"input":"4 1 2\n","output":"1"},{"id":1705904284112,"input":"8 2 6","output":"Final!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Cai Zhixin\\Documents\\CPP Files\\C.cpp","group":"local","local":true}

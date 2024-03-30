@@ -4,5 +4,6 @@
         "random": "cpp",
         "iosfwd": "cpp"
     },
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "git.enabled": false
 }

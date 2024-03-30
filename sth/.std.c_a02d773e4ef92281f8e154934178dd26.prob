@@ -1,0 +1,1 @@
+{"name":"Local: std","url":"c:\\Users\\Cai Zhixin\\Documents\\2024春航C\\命题\\三质数之谜\\std.c","tests":[{"id":1711440242928,"input":"5\n8\n42\n33\n1\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Cai Zhixin\\Documents\\2024春航C\\命题\\三质数之谜\\std.c","group":"local","local":true}

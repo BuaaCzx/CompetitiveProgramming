@@ -1,0 +1,1 @@
+{"name":"Local: multi","url":"c:\\Users\\Cai Zhixin\\Desktop\\multi.c","tests":[{"id":1711015654790,"input":"10 80000 2 6000 7 300 5 10 18 0\n3 6000 5 20 8 10 6 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Cai Zhixin\\Desktop\\multi.c","group":"local","local":true}

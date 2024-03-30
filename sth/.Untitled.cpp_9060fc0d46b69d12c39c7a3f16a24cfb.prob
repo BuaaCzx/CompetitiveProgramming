@@ -1,0 +1,1 @@
+{"name":"Local: Untitled","url":"c:\\Users\\Cai Zhixin\\Desktop\\Untitled.cpp","tests":[{"id":1711466495014,"input":"3 11\n1\n2\n3\n4\n1\n3\n3\n1\n4\n5\n1","output":"NO\nNO\nNO\nNO\nNO\nYES 3\nYES 1\nYES 2\nYES 3\nNO\nYES 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Cai Zhixin\\Desktop\\Untitled.cpp","group":"local","local":true}
